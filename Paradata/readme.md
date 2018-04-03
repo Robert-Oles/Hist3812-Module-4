@@ -34,6 +34,6 @@ Fit my asset to my target
 
 Finalized all the settings and created my application
 
-**Have you acknowledged Unvertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences
+**Have you acknowledged Unvertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences**
 
 Most of the uncertainty of the resource is addressed in a [previous post](https://github.com/Robert-Oles/Hist3812-Remix/blob/master/Paradata/Paradata.md)
