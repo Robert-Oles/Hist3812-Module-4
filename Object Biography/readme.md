@@ -1,1 +1,7 @@
-# Holder #
+# Object Biography #
+
+## Shades of Grey: The Darker Sides to the stories of Louise McKinney and Mercedes 
+
+Louise McKinney is well-known as a member of the Famous Five, the group of women who fought for the right of women to be recognized as "persons" in Canada (Cavanaugh, 2015). What is lesser talked about is pro-white pro-eugenics agenda that was pushed forward by the Famous Five in Alberta. The Alberta Sexual Sterilization Act of 1928 was a billed passed to re-enforce what was described as "negative eugenics" forcibly sterilizing "mental defectives" or other undesirables (Jackel, 2015). It is important to recognize that while Louise McKinney's opinion was not fully understood,"She promoted stricter immigration laws — a means to keep out unwanted, often racialized, individuals — and lobbied for the creation of institutions for “mental defectives” — seen as a means to prevent institutionalized persons from reproducing" (Silverman, 2016). 
+
+Mercedes-Benz, the German auto-manufacturer is a well-known global brand and seen by many as provider of some of the best luxury cars in the world. However, lesser known is their history as an armament manufacture for the Nazi Regime during the Second World War where they had increasingly switched from civilian to military goods in 1937 (Daimler). Darker still was their widespread use of forced labour with "almost half of Daimler Benz's 63,610 Daimler Benz employees were civilian forced labourers, prisoners of war or concentration camp detainees."(Daimler).   
