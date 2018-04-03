@@ -12,6 +12,10 @@
 
 [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
+[Asset](https://sketchfab.com/models/c4e79a9dbcc24287bbf011737b3aefa4)
+
+[Target Image](https://github.com/Robert-Oles/Hist3812-Module-4/blob/master/Application%20File/Progress-1.jpg)
+
 **Step 1**
 
 Begin by downloading Unity, Android Studio, and the Java Development Kit making sure to install packages that are relevent to android development. 
