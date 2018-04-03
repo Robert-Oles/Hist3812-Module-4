@@ -4,10 +4,10 @@
 
 ### Resources ###
 
-(Unity)[https://unity3d.com/get-unity/download]
-(Android Studio)[https://developer.android.com/studio/index.html]
-(Vufornia)[https://www.vuforia.com/]
-(Java Development Kit)[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html]
+[Unity](https://unity3d.com/get-unity/download)
+[Android Studio](https://developer.android.com/studio/index.html)
+[Vufornia](https://www.vuforia.com/)
+[Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 **Step 1**
 
@@ -19,7 +19,7 @@ Find an image that you wish to use as your target image, for this project, the p
 
 **Step 3**
 
-Go to (Vufornia)[https://www.vuforia.com/] and create a free account. Afterwords, create a development license key that we will return to later. Once that is done, go to the target manager and create a new database with your desired target image. 
+Go to [Vufornia](https://www.vuforia.com/) and create a free account. Afterwords, create a development license key that we will return to later. Once that is done, go to the target manager and create a new database with your desired target image. 
 
 *important note here: Sicne Unity's default units are meters, you must set the scale of your target image to your desired scale. Since we wanted this to be a landscape piece of paper the scale was set to 0.2794
 
@@ -97,4 +97,4 @@ Email or transfer the Apk file to your phone, install and run the application an
 
 Still need more help? 
 
-(Try this awesome tutorial resource)[https://www.youtube.com/watch?v=MtiUx_szKbI] 
+[Try this awesome tutorial resource](https://www.youtube.com/watch?v=MtiUx_szKbI) 
