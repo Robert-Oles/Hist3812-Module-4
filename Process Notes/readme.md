@@ -5,8 +5,11 @@
 ### Resources ###
 
 [Unity](https://unity3d.com/get-unity/download)
+
 [Android Studio](https://developer.android.com/studio/index.html)
+
 [Vufornia](https://www.vuforia.com/)
+
 [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 **Step 1**
